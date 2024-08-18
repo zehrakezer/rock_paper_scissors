@@ -58,13 +58,40 @@ Let's start!
 
 #### Game: 1 , Round: 1 ####
 
-Rock, paper, scissors or exit: rock
-Computer's move: scissor
+Rock, paper, scissors or exit:rock
+Computer's move: rock
 
-Player Won
+It's a tie this round!
 
-Computer: 0 , Player: 1
+Computer: 0 , Player:  0
+
 ########################################
+
+#### Game: 1 , Round: 2 ####
+
+Rock, paper, scissors or exit:rock
+Computer's move: paper
+
+Computer Won
+
+Computer: 1 , Player:  0
+
+########################################
+
+#### Game: 1 , Round: 3 ####
+
+Rock, paper, scissors or exit:rock
+Computer's move: paper
+
+Computer Won
+
+Computer: 2 , Player:  0
+
+########################################
+
+
+Game Over!,The winner of this round is the Computer 
+Player: 0, Computer: 2
 
 Do you want to continue (yes/no): no
 
