@@ -17,12 +17,6 @@ In this game, you will challenge the computer to a series of Rock, Paper, Scisso
 4. **Score Tracking**: The game will keep track of your score and the computer's score. The first to reach two points wins the game.
 5. **Continue or Exit**: After each game, you can choose to play again or exit the game.
 
-## Game Strategy
-
-While Rock, Paper, Scissors is often seen as a game of chance, there is room for strategy:
-- **Predicting the Computer**: Over multiple rounds, you might notice patterns in the computer's choices. Try to anticipate its next move!
-- **Mind Games**: The game is as much about psychology as it is about probability. Consider what the computer "expects" you to play and surprise it.
-- **Random Play**: Alternatively, you can try to be as unpredictable as possible, just like the computer.
 
 ## Behind the Scenes: How It Works
 
