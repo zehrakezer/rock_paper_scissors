@@ -88,6 +88,7 @@ Player: 0, Computer: 2
 Do you want to continue (yes/no): no
 
 If you want to play again I'll be waiting here, bye for now
+```
 
 
 ![image](https://github.com/zehrakezer/rock_paper_scissors/blob/main/image.jpeg)
