@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors Game by Zehra Kezer
+# Rock, Paper, Scissors Game 
 
 Welcome to the **Rock, Paper, Scissors** game, a timeless battle of wits and chance! This Python implementation brings the classic game to your terminal, allowing you to face off against a computer opponent. Will you master the strategy, or will luck decide your fate?
 
@@ -32,14 +32,6 @@ The game is built using basic Python programming concepts, making it an excellen
 - **Loops**: A `while` loop ensures the game continues until a player decides to stop or the win condition is met.
 - **User Input**: The game interacts with the player using Python's `input()` function, making it a fully interactive experience.
 
-## Possible Extensions
-
-This game is just the beginning! Here are some ideas for expanding and enhancing the game:
-- **Multiplayer Mode**: Allow two players to play against each other on the same computer.
-- **Score History**: Keep track of how many games the player has won or lost in a session.
-- **AI Enhancement**: Implement a more advanced AI that learns from the player's choices and adapts its strategy.
-- **Graphical Interface**: Convert the game into a GUI application using a library like Tkinter or Pygame.
-- **Sound Effects**: Add sound effects to make the game more engaging.
 
 ## Example Game Session
 
@@ -96,3 +88,6 @@ Player: 0, Computer: 2
 Do you want to continue (yes/no): no
 
 If you want to play again I'll be waiting here, bye for now
+
+
+![image](https://github.com/zehrakezer/rock_paper_scissors/blob/main/image.jpeg)
